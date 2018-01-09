@@ -1,1 +1,1 @@
-NIMACOIN Release 1.0.0
+nimabi 666
